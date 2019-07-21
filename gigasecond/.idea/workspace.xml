@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b708ffdb-aa3b-4d0a-9da8-75546a45ed9d" name="Default Changelist" comment="" />
+    <list default="true" id="b708ffdb-aa3b-4d0a-9da8-75546a45ed9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Gigasecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Gigasecond.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,11 +42,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Gigasecond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,7 +112,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563292857640" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563717466012" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -126,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GigasecondTest.modernTime">
+  <component name="RunManager" selected="JUnit.GigasecondTest">
     <configuration name="GigasecondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="gigasecond.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -147,8 +148,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GigasecondTest.modernTime" />
         <item itemvalue="JUnit.GigasecondTest" />
+        <item itemvalue="JUnit.GigasecondTest.modernTime" />
       </list>
     </recent_temporary>
   </component>
@@ -187,8 +188,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,11 +253,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Gigasecond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
