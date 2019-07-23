@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Exercism/java/bob" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/diamond" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/gigasecond" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/hamming" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/hello-world" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/protein-translation" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/proverb" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/raindrops" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/reverse-string" value="PREVIEW" />
+        <entry key="$USER_HOME$/Exercism/java/twelve-days" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+</project>
