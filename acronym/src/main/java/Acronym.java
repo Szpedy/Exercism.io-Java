@@ -1,11 +1,20 @@
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 class Acronym {
 
+    private final String phrase;
+
     Acronym(String phrase) {
-        throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
+        this.phrase = phrase.replaceAll("_", "");
     }
 
     String get() {
-        throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
+        return Stream
+                .of(phrase.split("[ -]"))
+                .filter(phrase -> phrase.length() > 0)
+                .map(phrase -> phrase.substring(0, 1).toUpperCase())
+                .collect(Collectors.joining());
     }
 
 }
